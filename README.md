@@ -1,5 +1,5 @@
 # kyle-sp
-Supporting code for "Deep Investing in Kyle's Single Period Model", P. Friedrich and J. Teichmann, 2020.
+Supporting code for "Deep Investing in Kyle's Single Period Model", P. Friedrich and J. Teichmann, 2020. Licensed under the MIT license.
 
 Run it using jupyter. Tested using:
 
