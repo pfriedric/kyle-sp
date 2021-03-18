@@ -8,3 +8,4 @@ Run it using jupyter. Tested using:
     Numpy 1.16.2
     Keras 2.2.4
     Scipy 1.2.1
+    Matplotlib 3.0.3
